@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'baso'
+  
+}
+item {
+  id:2
+  name: 'eosi'
+}
+item {
+  id:3
+  name:'lymphocyte'
+}
+item {
+  id:4
+  name:'monocyte'
+}
+item {
+  id:5
+  name:'neutrophil'
+}
