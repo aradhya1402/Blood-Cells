@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monocytes</folder>
+	<filename>monocytes (44).jpg</filename>
+	<path>C:\Users\kiit1\Documents\Blood_Cells_Classification_2\training_images\Monocytes\monocytes (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monocyte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>14</ymin>
+			<xmax>100</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
