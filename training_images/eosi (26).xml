@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eosinophills</folder>
+	<filename>eosi (26).jpeg</filename>
+	<path>C:\Users\kiit1\Documents\Blood_Cells_Classification_2\training_images\Eosinophills\eosi (26).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>70</ymin>
+			<xmax>228</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
