@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basophils</folder>
+	<filename>baso(71).jpg</filename>
+	<path>C:\Users\kiit1\Documents\Blood_Cells_Classification_2\training_images\Basophils\baso(71).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>62</ymin>
+			<xmax>238</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
