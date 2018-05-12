@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lymphocyte</folder>
+	<filename>lympho (10).jpg</filename>
+	<path>C:\Users\kiit1\Documents\Blood_Cells_Classification_2\training_images\Lymphocyte\lympho (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lymphocyte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>46</ymin>
+			<xmax>252</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
